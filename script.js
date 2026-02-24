@@ -116,6 +116,6 @@ if(form){
 // ===== WHATSAPP PREFILLED MESSAGE =====
 const whatsappBtn = document.querySelector(".whatsapp-btn");
 if(whatsappBtn){
-  whatsappBtn.href = "https://wa.me/27732112762?text=" +
+  whatsappBtn.href = "https://wa.me/27746117131?text=" +
     encodeURIComponent("Hello Panavanhu Electrical, I would like to request a quotation.");
 }
